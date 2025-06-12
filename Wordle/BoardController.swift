@@ -1,10 +1,3 @@
-//
-//  BoardController.swift
-//  Wordle
-//
-//  Created by Mari Batilando on 2/20/23.
-//
-
 import Foundation
 import UIKit
 
